@@ -1,2 +1,2 @@
 # Real-Estate-Analytic-Data
-This analysis is a real estate analysis that provides insight on real estate market for the year 2020 - 2025
+SQL queries and insights for a Power BI real estate performance dashboard, tracking revenue, top agents, city trends, and more. Generated from a REAL_ESTATE database.
